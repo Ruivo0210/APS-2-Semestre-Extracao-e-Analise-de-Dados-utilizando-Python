@@ -8,7 +8,7 @@ João Lucas Roldão Rocha – RA: N9614H4 – Turma: CC2P18
 
 Email: joaolucasrr0210@gmail.com
 
-ESte trabalho possui como objetivo realizar um script utilizando a
+Este trabalho possui como objetivo realizar um script utilizando a
 biblioteca “NumPy” e/ou “Pandas” na linguagem de programação “Python”, para que
 seja feita uma análise de uma das planilhas disponíveis no site proposto pelos
 professores (https://dados.gov.br/group/dados-em-destaque), e através desta,
